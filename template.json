@@ -1,0 +1,7 @@
+{
+  "name": "Wails SvelteKit + TS template",
+  "shortname": "wails-sveltekit-ts-template",
+  "author": "CRT-HAO",
+  "description": "SvelteKit template with TypeScript",
+  "helpurl": "https://github.com/CRT-HAO/wails-sveltekit-ts-template"
+}
